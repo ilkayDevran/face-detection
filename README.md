@@ -1,1 +1,1 @@
-Image Face Chopper (with python and cv2 
+face-detection-haar
